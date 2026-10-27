@@ -25,7 +25,7 @@ export const StatusLabels: Story = {
   },
 };
 
-/* const SCRAMBLE_POOL = [
+const SCRAMBLE_POOL = [
   "Alpha",
   "Beta",
   "Gamma",
@@ -46,4 +46,4 @@ export const Unstable: Story = {
     wordHoldMs: Math.floor(Math.random() * 4000) + 800,
     scrambleTickMs: Math.floor(Math.random() * 80) + 20,
   },
-}; */
+};
